@@ -117,4 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>A stack is a linear data structure that stores elements
+in a given order and operates on the last-in-first-out (LIFO) principle.
+
+Other data structures, such as arrays (static memory)
+or lists (dynamic memory), are required to represent a stack.</value>
+  </data>
 </root>

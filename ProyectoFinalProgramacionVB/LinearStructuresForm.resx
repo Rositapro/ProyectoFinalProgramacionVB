@@ -117,4 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Linear data structures are those in which the elements occupy successive 
+places in the structure and each of them has a single successor and a 
+single predecessor, that is, their elements are located next to each other and related in a linear fashion.</value>
+  </data>
 </root>

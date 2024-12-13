@@ -117,4 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>A data structure is a way of organizing and managing data in a 
+system so that it can be accessed, managed, and shared efficiently.
+
+Data structures are useful for: Storing data efficiently and making it accessible, 
+Troubleshooting problems and making software more efficient, 
+Diagnosing anomalous situations, Creating efficient algorithms.
+
+Data structures can be linear or non-linear, homogeneous or heterogeneous, and static or dynamic.</value>
+  </data>
 </root>

@@ -117,4 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>In computer science, algorithms are the set of systematic and previously 
+defined instructions used to perform a specific task. 
+These instructions are ordered and defined as steps to follow to achieve a goal.</value>
+  </data>
 </root>
